@@ -1,0 +1,12 @@
+[submodule "unit"]
+	path = unit
+	url = https://github.com/lakshya-blitzy/proactive-insights-unit-testing-suite.git
+[submodule "integration"]
+	path = integration
+	url = https://github.com/lakshya-blitzy/proactive-insights-integration-testing-suite.git
+[submodule "e2e"]
+	path = e2e
+	url = https://github.com/lakshya-blitzy/proactive-insights-e2e-testing-suite.git
+[submodule "nonfunctional"]
+	path = nonfunctional
+	url = https://github.com/lakshya-blitzy/proactive-insights-nonfunctional-testing-suite.git
